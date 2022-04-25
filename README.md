@@ -1,1 +1,1 @@
-# prometheus-enhanced-chrome-extension
+# prometheus-chrome-extension
